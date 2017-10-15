@@ -12,6 +12,8 @@
 		F00197371F938F10004942D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F00197351F938F10004942D7 /* Main.storyboard */; };
 		F00197391F938F10004942D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F00197381F938F10004942D7 /* Assets.xcassets */; };
 		F001973C1F938F10004942D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F001973A1F938F10004942D7 /* LaunchScreen.storyboard */; };
+		F00197441F939235004942D7 /* WebView2Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00197431F939235004942D7 /* WebView2Controller.swift */; };
+		F00197461F93930B004942D7 /* WebView3Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00197451F93930B004942D7 /* WebView3Controller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		F00197381F938F10004942D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F001973B1F938F10004942D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F001973D1F938F10004942D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F00197431F939235004942D7 /* WebView2Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView2Controller.swift; sourceTree = "<group>"; };
+		F00197451F93930B004942D7 /* WebView3Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView3Controller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				F00197311F938F10004942D7 /* AppDelegate.swift */,
 				F00197331F938F10004942D7 /* ViewController.swift */,
 				F00197351F938F10004942D7 /* Main.storyboard */,
+				F00197451F93930B004942D7 /* WebView3Controller.swift */,
+				F00197431F939235004942D7 /* WebView2Controller.swift */,
 				F00197381F938F10004942D7 /* Assets.xcassets */,
 				F001973A1F938F10004942D7 /* LaunchScreen.storyboard */,
 				F001973D1F938F10004942D7 /* Info.plist */,
@@ -138,6 +144,8 @@
 			files = (
 				F00197341F938F10004942D7 /* ViewController.swift in Sources */,
 				F00197321F938F10004942D7 /* AppDelegate.swift in Sources */,
+				F00197441F939235004942D7 /* WebView2Controller.swift in Sources */,
+				F00197461F93930B004942D7 /* WebView3Controller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
